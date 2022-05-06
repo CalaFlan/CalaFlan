@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CalaFlan
 - 👀 I’m into audio programming
-- 🌱 I’m currently learning Fmod and Unity
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning to implement audio in Fmod, Unity and develop plugins using Juce
+- 💞️ I’m looking to collaborate on anything audio related
 - 📫 you can find me on twitter
 
 <!---
