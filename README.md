@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Callum
-- 👀 I’m into audio programming
-- 🌱 I’m currently learning to implement audio in Fmod, Unity and develop plugins using Juce. I'm also taking CS50 Online
-- 💞️ I’m looking to collaborate on anything audio related
-- 📫 you can find me on twitter
+- 👀 I’m into technical sound design and audio programming
+- 💞️ I’m always looking to collaborate on anything audio-related, so feel free to get in touch
+- 📫 you can find me on [Bluesky](@calflan.bsky.social) or [Linkedin](https://www.linkedin.com/in/callum-flanagan/)
 
 <!---
 CalaFlan/CalaFlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
